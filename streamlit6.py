@@ -1,5 +1,4 @@
 import streamlit as st
-from sympy import sec
 
 # you can style your streamlit app using external css and loading it in it using file open
 # to see which class need to change inspect streamlit app
